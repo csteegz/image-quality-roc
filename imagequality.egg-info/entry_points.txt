@@ -1,0 +1,5 @@
+[console_scripts]
+analyze = imagequality.analyze:main
+analyze-2.7 = imagequality.analyze:main
+analyze2 = imagequality.analyze:main
+

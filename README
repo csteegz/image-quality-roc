@@ -1,0 +1,9 @@
+ImageQuality: ROC, LROC and EFROC analysis tools.
+
+Install by running setup.py.
+Requires setuptools to run correctly.
+
+Requires at least Python 2.7 or 3.2 (ie, will not run correctly on 3.0,3.1 or 2.x with x<7)
+
+After it is installed, run with the command 'analyze' or 'analyze-x.x' to run with a specific version of python.
+See analyze -h for more.

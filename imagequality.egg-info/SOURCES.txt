@@ -1,0 +1,16 @@
+README
+setup.cfg
+setup.py
+imagequality/__init__.py
+imagequality/analyze.py
+imagequality/efroc.py
+imagequality/file_parser.py
+imagequality/lroc.py
+imagequality/study.py
+imagequality.egg-info/PKG-INFO
+imagequality.egg-info/SOURCES.txt
+imagequality.egg-info/dependency_links.txt
+imagequality.egg-info/entry_points.txt
+imagequality.egg-info/requires.txt
+imagequality.egg-info/top_level.txt
+test/test.py
